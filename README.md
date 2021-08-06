@@ -1,3 +1,3 @@
 "#pinterest-animation" 
 "# Inspiration" 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![alt text](https://github.com/[Braianhenrike]/[Inspiration-on-pinterest]/blob/[main]/image.jpg?raw=true)
